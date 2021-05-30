@@ -1,0 +1,9 @@
+Start
+Declare variables t,n,i
+Declare an array A
+Initialize the values into A
+Select the adjacent pair and remve the larger one in those two
+Decrease the array value by 1
+Find the Minimum sum of cost
+Print the value of Minimum sum of cost
+End
